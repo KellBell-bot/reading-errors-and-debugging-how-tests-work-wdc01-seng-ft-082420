@@ -1,5 +1,5 @@
-first_number = 4
-second_number = 8
+first_number = 8
+second_number = 4
 sum = first_number + second_number
 p "Sum is #{sum}"
 difference = first_number - second_number
